@@ -18,16 +18,18 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Master thesis project QCS with Maris Ozols
+email: rik.heurter@student.uva.nl
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    If you are on this page, then that most likely means you are my supervisor or possibly
+    someone else affiliated to Lean and interested in formalisation. Anyway the goal of this site
+    is to simply have some place to vent my thoughts on what I have read on/worked on which I
+    then hopefully can introduce to my thesis, if at all useful to the story of my learning
+    there.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: rikheurter.github.io # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+# twitter_username: jekyllrb
+github_username:  RikHeurter
 
 # Build settings
 theme: minima
