@@ -19,10 +19,10 @@ Similarly it is to a certain extent sad that there is still no proper direction 
 
 Also reading through some of the posts in the thread it was interesting to see that probably the best way to write these algorithms is using monads, just like is the "natural" way of writing stateful functional programming languages (which Lean belongs to). This was something I did expect, but still to see it in action is fun to say the least.
 
-To end, after having written my first blogpost let's get to talking about writing my thesis, or more aptly what boundaries I think I will set for myself. At first I wanted to look into using agentic AI to formalise theorems, but the longer I am considering that the more I am thinking that I will probably not like that. Compared to my bachelor thesis wherein (probably to my detriment) I did not use AI in anyway whatsoever, I will at least plan on using on the UvA's AIChat. Mostly to look up how to do x,y or z in Lean which I didn't yet know about. I think I am very much at the stage of learning LEAN that using LLMs for look up is moreso to get introduced to new methods to improve/shorten my LEAN code than letting the computer solve the problems for me [^1]. It will be sad to leave my AI-free hermit life after me though :'(.
----
+To end, after having written my first blogpost let's get to talking about writing my thesis, or more aptly what boundaries I think I will set for myself. At first I wanted to look into using agentic AI to formalise theorems, but the longer I am considering that the more I am thinking that I will probably not like that. Compared to my bachelor thesis wherein (probably to my detriment) I did not use AI in anyway whatsoever, I will at least plan on using on the UvA's AIChat. Mostly to look up how to do x,y or z in Lean which I didn't yet know about. I think I am very much at the stage of learning LEAN that using LLMs for look up is moreso to get introduced to new methods to improve/shorten my LEAN code than letting the computer solve the problems for me [^a]. It will be sad to leave my AI-free hermit life after me though :'(.
 
-[^1]: At the very least I hope so. In my bachelor thesis' code I wrote down wayyyy too many `apply?` to get possibly further + using the creation of a lot of short rewrite hypothesis and then using simp. At least after having learned `show_term` I now know how to already clean up a lot of this code.
+---
+[^a]: At the very least I hope so. In my bachelor thesis' code I wrote down wayyyy too many `apply?` to get possibly further + using the creation of a lot of short rewrite hypothesis and then using simp. At least after having learned `show_term` I now know how to already clean up a lot of this code.
 
 
 
