@@ -11,7 +11,9 @@ I only just at the end reread the zulipthread of organising the community and th
 # The rest of the post:
 
 
-It's the end of the first period and the start of the next period. Importantly I will always have a free Wednesday this period, and thus can finally start working on my thesis :). I have finally managed to work through algolean, which has pretty good documentation in the code. Generally it does seem to include almost everything we would already want for what my Master's thesis is going to be about. So it could very well be the case that I instead were to add some more support for working with the library for proving quantum algorithm specific statements.
+It's the end of the first period and the start of the next period. Importantly I will always have a free Wednesday this period, and thus can finally start working on my thesis :). I have finally managed to work through algolean, which has pretty good documentation in the code. I even watched the hour long talk about it, which was definitely worth my time.
+
+Generally it does seem to include almost everything we would already want for what my Master's thesis is going to be about. So it could very well be the case that I instead were to add some more support for working with the library for proving quantum algorithm specific statements.
 
 To give an example on how unreasonable clean the implementation seems to be for implementing code see the following code snippet ripped straight from Shreyas Srinivas's poster about Algolean:
 
